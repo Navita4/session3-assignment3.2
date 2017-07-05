@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>WELCOME TO WORDPRESS</title>
+<style>
+.myclass gallery{
+    display:inline;
+    color:aqua;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    text-decoration-color: bisque;
+}
+</style>
